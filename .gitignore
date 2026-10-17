@@ -1,0 +1,9 @@
+# Ignore common files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+.env
